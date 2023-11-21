@@ -21,3 +21,8 @@ Let's GO
 
 Second, planning ahead is crucial. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to tackle them. It will also help to organize your thoughts and ideas, making it easier to implement your plan. 
  ..
+
+# 2023-11-21
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
+
+Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back and analyze the issue. Break down the problem into smaller, more manageable pieces, then use critical thinking and creativity to come up with solutions. Practice debugging and refactoring code, which can help you identify and fix errors more efficiently. Finally, don't be afraid to ask for help or advice from others in the community, who are often more than willing to share their knowledge and experience.
