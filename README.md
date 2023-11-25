@@ -39,3 +39,8 @@ Another important aspect of programming wise is problem-solving. When faced with
 To be successful as a programmer, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, systems architecture, etc. These principles will help you design and develop efficient, scalable,and maintainable software solutions. 
  此外，良好的沟通和团队协作能力对程序员来说也非常重要。你需要与团队成员、项目经理和其他利益相关者保持良好的沟通，以便更好地理解需求、解决问题并实现项目目标。
  最后，保持好奇心和创新精神也是程序员应具备的品质。尝试新的技术、工具和方法，以及不断挑战自己，将有助于你在职业生涯中取得更大的成功。总之，作为一名程序员，你应该努力成为一个终身学习者，不断更新自己的知识和技能，以适应不断变化的技术环境。
+
+# 2023-11-25
+- "Every line of code you write is a liability. Make sure it's worth it." - Jeff Atwood
+
+This quote emphasizes the importance of writing efficient and necessary code. Each line of code you add to a project increases its complexity and maintenance cost, so it's crucial to ensure that every line serves a purpose and provides value. Before writing any code, take the time to plan and consider if it's truly necessary. This mindset can help prevent technical debt and result in cleaner, more maintainable code.
