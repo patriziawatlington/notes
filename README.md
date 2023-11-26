@@ -44,3 +44,6 @@ To be successful as a programmer, you should also have a deep understanding of c
 - "Every line of code you write is a liability. Make sure it's worth it." - Jeff Atwood
 
 This quote emphasizes the importance of writing efficient and necessary code. Each line of code you add to a project increases its complexity and maintenance cost, so it's crucial to ensure that every line serves a purpose and provides value. Before writing any code, take the time to plan and consider if it's truly necessary. This mindset can help prevent technical debt and result in cleaner, more maintainable code.
+
+# 2023-11-26
+- "Keep it simple, stupid!"
