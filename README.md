@@ -50,3 +50,6 @@ This quote emphasizes the importance of writing efficient and necessary code. Ea
 
 # 2023-11-27
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. By using version control systems like Git, you can keep track of your code and collaborate with others more effectively. Always write concise, well-documented code, as this will make it easier for others to understand and contribute to your project. Don't be afraid to ask for help or advice from others, because this can lead to you learning new skills and solving problems more quickly. Finally, always be open to learning and trying new technologies and programming languages, which will keep you at the forefront of the industry and help your career grow.
+
+# 2023-11-28
+- "Today's programming wisdom is to focus on writing clean, readable, and maintainable code. It's not just about making it work, but also about making it easy for others (and your future self) to understand and modify. Invest time in planning, use descriptive variable names, write comments, and break complex tasks into smaller functions. Remember, code is read more often than it is written, so always strive to make it a pleasure to read."
