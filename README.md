@@ -151,3 +151,10 @@ Remember to take breaks throughout the day to clear your mind and refocus. Avoid
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time for each step. Having a clear plan will make it easier to stay on track and avoid getting lost in the code. 
  -- 250 words
+
+# 2023-12-19
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Continuously educate yourself: Read blogs, books, and research papers to learn about new programming techniques, tools, languages, or frameworks.
+2. Practice regularly: Coding is a skill that improves with practice. Try to dedicate time each day to practice writing code and solve problems. You can find practice problems on websites like LeetCode, HackerRank, Codecademy, etc. to improve your problem-solving skills. 
+3. Participate in open-source projects: Contributing to open source projects is not only a great way to build your portfolio but also to network with other developers and learn from their experience. By participating in projects, you can gain experience with different coding styles, collaborate with others, learn new skills,and contribute to a larger project. Some popular open sources projects include GitHub, GitLab, Bitbucket,etc.
