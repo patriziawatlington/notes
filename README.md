@@ -241,3 +241,8 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 
 Next, learn to use version control systems like Git. These tools will allow you and your team to collaborate more effectively and easily manage changes to your codebase. Using version controls will also help to keep your project organized and make it easier to track down and fix any issues that may arise. 
  - 来自AI助手
+
+# 2024-01-05
+- Today's programming wisdom: "Premature optimization is the root of all evil" - Sir Tony Hoare. 
+
+This quote emphasizes that focusing on optimizing code before it's necessary or before you have a clear understanding of where performance bottlenecks lie, can lead to overly complex and hard-to-maintain solutions. Instead, write clean, readable, and correct code first. Profile your application to identify actual performance issues, then optimize those specific areas as needed. This way, you balance efficiency with maintainability and avoid wasting time on hypothetical improvements.
