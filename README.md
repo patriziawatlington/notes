@@ -569,3 +569,9 @@ In fewer than 200 words: This quote by computer scientist Donald Knuth reminds u
 
 # 2024-03-15
 - "Keep it simple, stupid!"
+
+# 2024-03-17
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques. This means constantly reading, researching, and practicing to improve your skills.
+
+To be an effective programmer, you must also have a strong foundation in basic computer science concepts, such as data structures, algorithms, programming languages, software engineering, etc. These concepts will serve as the building blocks for your career, allowing you to solve complex problems and create innovative solutions. 
+ - 来自NLP
